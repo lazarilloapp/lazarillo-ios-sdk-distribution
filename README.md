@@ -1,2 +1,2 @@
-# -lazarillo-ios-sdk-distribution
+# lazarillo-ios-sdk-distribution
 Distribute LZSDKMaps.xcframework
